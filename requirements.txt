@@ -1,0 +1,17 @@
+colorama==0.4.3
+hypothesis == 6.54
+mypy == 0.971
+numba == 0.56
+numpy == 1.22
+pre-commit == 2.20.0
+pytest == 7.1.2
+pytest-env
+pytest-runner == 5.2
+typing_extensions
+datasets==2.4.0
+embeddings==0.0.8
+networkx==2.4
+plotly==4.14.3
+pydot==1.4.1
+torch
+watchdog==1.0.2
